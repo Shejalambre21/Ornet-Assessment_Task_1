@@ -1,2 +1,0 @@
-# Ornet-Assessment
-Assessment tasks 
